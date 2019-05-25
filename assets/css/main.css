@@ -1786,7 +1786,7 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: #4acaa8;
+		color: green;
 		font-size: 3.5em;
 	}
 
@@ -2803,6 +2803,7 @@ input, select, textarea {
 
 	#main > section {
 		border-top: solid 6px #f4f4f4;
+		background-color: azure;
 	}
 
 		#main > section > .container {
@@ -2818,7 +2819,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #fafafa;
+		background: #f4f4f4;
 		border-top: 0;
 		color: #c0c0c0;
 		overflow: hidden;

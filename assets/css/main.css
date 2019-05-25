@@ -159,6 +159,7 @@ input, select, textarea {
 	h4 {
 		font-size: 1.25em;
 		line-height: 1.5em;
+		color:green;
 	}
 
 	h5 {
@@ -1785,7 +1786,7 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: green;
+		color: #4acaa8;
 		font-size: 3.5em;
 	}
 
@@ -2691,7 +2692,7 @@ input, select, textarea {
 		}
 
 			#header h1 a, #header h2 a, #header h3 a, #header h4 a, #header h5 a, #header h6 a {
-				color: #ffffff;
+				color: #f4f4f4;
 			}
 
 		#header header p {
@@ -2726,7 +2727,8 @@ input, select, textarea {
 			}
 
 			#header > header p {
-				color: #d2f2e9;
+				/*color: #d2f2e9; */
+				color: #f4f4f4;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -2775,14 +2777,14 @@ input, select, textarea {
 						-ms-transition: none;
 						transition: none;
 						border: 0;
-						color: #ffffff !important;
+						color: #f4f4f4 !important;
 						display: block;
 						padding: 0.85em 0;
 						text-decoration: none;
 					}
 
 						#header > nav ul li a.active {
-							background: #fff;
+							background: #f4f4f4;
 							color: #4acaa8 !important;
 						}
 
@@ -2805,10 +2807,12 @@ input, select, textarea {
 
 		#main > section > .container {
 			padding: 6em 0 4em 0;
+			background-color: azure;
 		}
 
 		#main > section:first-child {
 			border-top: 0;
+			background-color: azure;
 		}
 
 /* Footer */

@@ -2108,7 +2108,7 @@ input, select, textarea {
 			-moz-object-position: center;
 			-webkit-object-position: center;
 			-ms-object-position: center;
-			object-position: center;
+			object-position: left;
 		}
 
 		.image[data-position="25% 25%"] img {

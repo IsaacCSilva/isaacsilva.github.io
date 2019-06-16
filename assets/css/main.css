@@ -134,7 +134,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #777;
+		color: #333A56;
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
@@ -159,7 +159,7 @@ input, select, textarea {
 	h4 {
 		font-size: 1.25em;
 		line-height: 1.5em;
-		color:green;
+		color: #52658F;
 	}
 
 	h5 {
@@ -2378,7 +2378,7 @@ input, select, textarea {
 			}
 
 			ul.feature-icons li:before {
-				background: #4acaa8;
+				background: #333A56;
 				border-radius: 100%;
 				color: #ffffff;
 				display: block;
@@ -2595,7 +2595,7 @@ input, select, textarea {
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #4acaa8;
+			background-color: #333A56;
 			color: #ffffff !important;
 		}
 
@@ -2803,8 +2803,8 @@ input, select, textarea {
 /* Main */
 
 	#main > section {
-		border-top: solid 6px #f4f4f4;
-		background-color: azure;
+		border-top: solid 6px #E8E8E8;
+		background-color: #F7F5E6;
 	}
 
 		#main > section > .container {

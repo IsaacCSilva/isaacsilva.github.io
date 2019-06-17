@@ -2186,6 +2186,8 @@ input, select, textarea {
 
 			.image.main img {
 				border-radius: 0;
+				filter: invert(30%);
+				-webkit-filter: invert(30%);
 			}
 
 /* List */
